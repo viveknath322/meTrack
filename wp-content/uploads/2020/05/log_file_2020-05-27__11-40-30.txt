@@ -1,0 +1,260 @@
+
+---Downloaded files---
+The import files for: Alpas Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/test
+Data file = C:\xampp\htdocs\test/wp-content/themes/alpas//lib/demo-data/alpas-demo.xml
+Widget file = C:\xampp\htdocs\test/wp-content/themes/alpas//lib/demo-data/alpas-widgets.json
+Customizer file = C:\xampp\htdocs\test/wp-content/themes/alpas//lib/demo-data/alpas-export.dat
+Redux files:
+alpas_opt -> C:\xampp\htdocs\test/wp-content/themes/alpas//lib/demo-data/redux-option.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Book
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import product_cat iphone
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Book
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import product_cat iphone
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Book
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import product_cat iphone
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Book
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import product_cat iphone
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Book
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import product_cat iphone
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Book
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import product_cat iphone
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Book
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import product_cat iphone
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Book
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import product_cat iphone
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Book
+[WARNING] Failed to import product_cat Camera
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import product_cat iphone
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Phone
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "Mobile Phones": Invalid post type product
+[WARNING] Failed to import "iphone 7 Plus Black Matte": Invalid post type product
+[WARNING] Failed to import "Black Canon E0S 550D": Invalid post type product
+[WARNING] Failed to import "Wireless Headphone": Invalid post type product
+[WARNING] Failed to import "Black Cordless Headphone": Invalid post type product
+[WARNING] Failed to import "DT 770 Pro Headphone": Invalid post type product
+
+
+---Importing widgets---
+footer-four : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - Contacts - Imported to Inactive
+
+Sidebar : 
+
+Search - No Title - Widget already exists
+Alpas Recent Posts With Image - Recent posts - Imported
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer One : 
+
+Navigation Menu - Services - Imported
+
+Footer Two : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Three : 
+
+Text - Contacts - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: alpas_opt finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!

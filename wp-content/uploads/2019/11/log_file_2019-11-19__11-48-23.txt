@@ -1,0 +1,37 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://themes.jibdara.com/alpas
+Data file = /var/www/themes/alpas/wp-content/uploads/2019/11/alpas.WordPress.2019-11-19.xml
+Widget file = /var/www/themes/alpas/wp-content/uploads/2019/11/localhost-wordpress-alpas-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Alpas Recent Posts With Image - Recent posts - Imported
+
+Footer Two : 
+
+Navigation Menu - Services - Imported
+
+Footer Three : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Four : 
+
+Text - Contacts - Imported
+
+
